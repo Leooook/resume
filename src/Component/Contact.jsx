@@ -11,7 +11,7 @@ function Contact(props) {
 					className="contactForm"
 					target="_blank"
 					rel="noopener noreferrer"
-					action="http://formspree.io/bohanzhao.unsw@gmail.com"
+					action="https://formspree.io/f/mjvpweyp"
 					method="POST"
 				>
 					<input className="contactForm1" type="text" name="fullname" placeholder="Full Name" required />
