@@ -766,7 +766,7 @@
 }
 @media screen and (min-width: 875px) {
 	.contactSection {
-		margin-top: 50px;
+		margin: 50px auto;
 		display: flex;
 		justify-content: space-between;
 	}
